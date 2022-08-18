@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    psdb2:
+      url: jdbc:as400://pub400.com;user=USERT888;password=qwert4321
+
+server:
+  port: 8091
